@@ -12,5 +12,4 @@
 
 
 
-[情迁博客](https://lozn.top)
 [快速开始](#main)
