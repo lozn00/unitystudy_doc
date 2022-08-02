@@ -2,7 +2,7 @@
 
 # Unity Xchart
 
-> 欢迎观用Xchart文档
+> Xchart配置项手册
 
 
 
@@ -10,6 +10,6 @@
 
 
 
-
+[API文档](https://xchart.lozn.top)
 
 [快速开始](#main)

@@ -1,8 +1,8 @@
 # API
 
-[XCharts主页](https://github.com/XCharts-Team/XCharts)</br>
-[XCharts配置项手册](XChartsConfiguration-ZH.md)</br>
-[XCharts问答](XChartsFAQ-ZH.md)
+[XChartsAPI](https://xchart.lozn.top)  
+[XCharts配置项手册](https://xhcart.lozn.top/sub)
+[XCharts问答](https://xhcart.lozn.top/ask)
 
 ## Class
 

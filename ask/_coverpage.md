@@ -2,14 +2,11 @@
 
 # Unity Xchart
 
-> Xchart Api文档
+> Xchart问答
 
 
 
 
+[API文档](https://xchart.lozn.top)
 
-
-
-
-[配置项手册](https://xchart.lozn.top/sub)
 [快速开始](#main)
