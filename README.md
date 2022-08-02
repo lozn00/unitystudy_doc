@@ -1,8 +1,10 @@
 # API
 
 [XChartsAPI](https://xchart.lozn.top)  
-[XCharts配置项手册](https://xhcart.lozn.top/sub)
-[XCharts问答](https://xhcart.lozn.top/ask)
+
+[XCharts配置项手册](https://xchart.lozn.top/sub)
+
+[XCharts问答](https://xchart.lozn.top/ask)
 
 ## Class
 

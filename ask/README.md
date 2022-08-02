@@ -1,9 +1,13 @@
 # XCharts问答
 
 [XCharts主页](https://github.com/XCharts-Team/XCharts)  
+
 [XChartsAPI](https://xchart.lozn.top)  
-[XCharts配置项手册](https://xhcart.lozn.top/sub)
-[XCharts问答](https://xhcart.lozn.top/ask)
+
+[XCharts配置项手册](https://xchart.lozn.top/sub)
+
+[XCharts问答](https://xchart.lozn.top/ask)
+
 
 [QA 1：如何调整坐标轴与背景的边距？](#如何调整坐标轴与背景的边距)  
 [QA 2：如何让初始动画重新播放？](#如何让初始动画重新播放)  
